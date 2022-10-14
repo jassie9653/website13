@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bootstrap 5 example 1</title>
+    <!-- Latest compiled and minified CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Latest compiled JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"></script>
+    <script src=""></script>
+</head>
+<body>
+    <div class="container">
+        <h1>My first Bootstrap</h1>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Magnam, maxime, excepturi quo adipisci exercitationem ducimus necessitatibus vero hic consequuntur voluptas iste totam temporibus fuga sed sapiente ipsum. Perferendis, excepturi sapiente!</p>
+
+        <div class="row">
+            <div class="col-12 col-md-6 bg-dark">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, voluptates repellendus. Debitis, laborum. Recusandae eos deleniti quis voluptate quibusdam tenetur, nobis commodi architecto? Natus tempore ducimus qui dicta animi reiciendis?</p>
+            </div>
+            <div class="col-12 col-md-6 bg-daner">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis alias laborum consequuntur error enim incidunt dignissimos nostrum nihil laboriosam. Quibusdam aut quisquam consequatur quasi eaque aliquam iusto cupiditate sit dolorem!</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
